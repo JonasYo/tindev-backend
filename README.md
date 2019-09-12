@@ -23,7 +23,9 @@ cd tindev-backend
 npm install
 ```
 
-![Image01](other_files/screenshot_service.PNG) 
+![Image01](other_files/screen01.PNG) 
+
+![Image01](other_files/screen02.PNG) 
 
 ## Contribuições
 Pull requests são bem-vindos.
