@@ -1,5 +1,9 @@
 # TinDev Backend
 
+![Image01](other_files/screen01.PNG) 
+
+![Image01](other_files/screen02.PNG) 
+
 Projeto desenvolvido na semana OmniStack 8 da Rocketseat utilizando NodeJS e MongoDB.
 
 ## Objetivos
@@ -22,10 +26,6 @@ cd tindev-backend
 # Instale as dependências NPM
 npm install
 ```
-
-![Image01](other_files/screen01.PNG) 
-
-![Image01](other_files/screen02.PNG) 
 
 ## Contribuições
 Pull requests são bem-vindos.
